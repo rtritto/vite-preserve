@@ -1,0 +1,18 @@
+{
+  "name": "vite-preserve",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "packageManager": "yarn@4.5.3",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@yarnpkg/sdks": "^3.2.0",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.5"
+  }
+}
